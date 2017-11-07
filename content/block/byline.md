@@ -1,5 +1,3 @@
-Copyright &copy; 2017 [Daniel Vasic](https://dbwebb.se) (Daniel@dbwebb.se)
-
-* [License](license)
-* [Cookies](cookies)
-* [Contact](contact)
+* Byline Daniel Vasic
+----------
+![alt text](img/jag3.jpg)

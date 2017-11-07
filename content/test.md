@@ -10,13 +10,9 @@ views:
                 route: block/byline
 ...
 
-About this site
+Test page
 ==============================================
 
-The primary focus of this site is to test:
+The primary focus of this page is to test:
 
 * To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
-
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
-
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).

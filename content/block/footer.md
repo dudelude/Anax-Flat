@@ -1,4 +1,4 @@
-Copyright &copy; 2012-2016 [Daniel Vasic](https://mikaelroos.se) (mos@dbwebb.se)
+Copyright &copy; 2017 [Daniel Vasic] (danielvasic@live.se)
 
 * [License](license)
 * [Cookies](cookies)
