@@ -7,4 +7,6 @@ Kursen syftar till en orientering inom områden design och användbarhet, specif
 
 ![alt text](img/design.gif)
 
-* Du kan hämta [Kursrepot Github](https://github.com/dudelude/Anax-Flat.git).
+* Du kan hämta [Kursrepot Anax-Flat Github](https://github.com/dudelude/Anax-Flat.git).
+
+* Du kan hämta [Kursrepot Anax-Flat Theme Github](https://github.com/dudelude/anax-flat-theme.git).
