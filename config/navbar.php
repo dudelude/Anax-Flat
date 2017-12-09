@@ -44,6 +44,20 @@ return [
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("About Typo")
             ],
+
+            "analysis" => [
+                "text"  => t("Analysis"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analysis from assignments"),
+                "mark-if-parent" => true,
+            ],
+
+            "theme" => [
+                "text"  => t("Theme"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Theme from assignments"),
+                "mark-if-parent" => true,
+            ],
         ],
     ],
 
@@ -90,6 +104,20 @@ return [
                 "text"  => t("Typo"),
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("About Typo")
+            ],
+
+            "analysis" => [
+                "text"  => t("Analysis"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analysis from assignments"),
+                "mark-if-parent" => true,
+            ],
+
+            "theme" => [
+                "text"  => t("Theme"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Theme from assignments"),
+                "mark-if-parent" => true,
             ],
         ],
     ],
